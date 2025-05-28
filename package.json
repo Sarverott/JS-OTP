@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "repository": "http://github.com/jiangts/jsOTP",
   "author": "Allan Jiang",
-  "main": "dist/jsOTP.min.js",
+  "main": "dist/jsOTP.js",
   "devDependencies": {
     "grunt": "~0.4.0",
     "grunt-contrib-coffee": "*",
